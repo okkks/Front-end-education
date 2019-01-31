@@ -8,5 +8,28 @@
 	margin: 0 auto;
 }
 
-.photo {
+.subtitle {
+	margin-top: 30px;
+}
+ h2 {
+ 	text-align: center;
+ 	font-weight: 700;
+ }
+
+ h4 {
+ 	margin-top: 10px;
+  	font-weight: 700;
+}
+ img {
+width:200px;
+}
+.photo
+{
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+}
+ul
+{
+padding-top: 10px;	
 }
