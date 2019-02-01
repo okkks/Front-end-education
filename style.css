@@ -8,10 +8,12 @@ body{
 
 h1 {
 	padding-top: 20px;
+	padding-bottom: 30px;
+	text-align: center;
 }
 .wrap {
 	max-width: 500px;
-	padding-left: 50px;
+	margin: 0 auto;
 }
 
 .subtitle {
@@ -29,12 +31,12 @@ h1 {
 }
 
  img {
-width:250px;
+width:400px;
 }
 
 .photo
 {
-float: left;
+float: top;
 margin: 13px 10px 0px 10px;
 }
 
